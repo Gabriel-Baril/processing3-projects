@@ -1,0 +1,34 @@
+- Attribute each person
+
+- Health
+- Velocity
+- Type
+  - Specie
+  - Race
+
+- Resistance
+  - Temperature
+    - cold
+    - heat
+  - To survive without food
+  - To survive without water
+- 
+
+- Attribute region
+  - topography (relief)
+  - climate
+  - mining wealth (ressource miniere)
+  - Level of sunshine
+  - Proximity food
+  - Proximity water
+
+- Attribute population
+  - Density
+  - Mortality
+    - disease (maladie)
+    - Density (Contract between each other)
+  - Natality
+    - Fertility
+    - Proportionnal gender type
+    - Density (Contract between each other)
+  - 

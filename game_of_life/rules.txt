@@ -1,0 +1,9 @@
+-si une cellule est entouré par 2 ou 3 trois cellule elle survie.
+-si une cellule est entouré de plus de 3 cellule elle meurt.
+-si une cellule est entouré d'une seule cellule elle meurt.
+-si une cellule morte est entouré par exactement 3 voisine elle née.
+
+
+010
+100
+001
